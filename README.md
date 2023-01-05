@@ -42,6 +42,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![selva3 2_page-20kb](https://user-images.githubusercontent.com/121961701/210848224-2add5be2-2a20-4cd4-8f37-033891a71eeb.jpg)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
